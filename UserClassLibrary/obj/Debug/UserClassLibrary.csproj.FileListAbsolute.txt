@@ -1,0 +1,5 @@
+c:\users\denis\documents\visual studio 2013\Projects\ChatServer\UserClassLibrary\bin\Debug\UserClassLibrary.dll
+c:\users\denis\documents\visual studio 2013\Projects\ChatServer\UserClassLibrary\bin\Debug\UserClassLibrary.pdb
+c:\users\denis\documents\visual studio 2013\Projects\ChatServer\UserClassLibrary\obj\Debug\UserClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\denis\documents\visual studio 2013\Projects\ChatServer\UserClassLibrary\obj\Debug\UserClassLibrary.dll
+c:\users\denis\documents\visual studio 2013\Projects\ChatServer\UserClassLibrary\obj\Debug\UserClassLibrary.pdb
